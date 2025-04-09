@@ -185,6 +185,9 @@ header div a{
 .beaytifyl{
 	display:none;
 }
+.beaytifyl,.eat,.summer,.countries,.visit{
+	z-index:3;
+}
 .camye:hover .beaytifyl{
 	display:block;
 }
