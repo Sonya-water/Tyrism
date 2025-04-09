@@ -264,6 +264,31 @@ header div a{
 h1::after{
 	content:url('orange.png')
 }
+.kitchen1{
+	display:flex;
+	border-bottom:10px solid white;
+}
+.kitchen1 h2,.kitchen1 p,.kitchen1 img{
+	width:25%;
+}
+.kitchen1 h2,.kitchen1 p{
+	padding:15px;
+}
+.evrop{
+	background-color:#44944A;
+}
+.asia{
+	background-color:#FFDC33;
+}
+.america{
+	background-color:#B03F35;
+}
+.tau{
+	background-color:#8CCB5E;
+}
+.tyrki{
+	background-color:#FFDB58;
+}
 
 
 
